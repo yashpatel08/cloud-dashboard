@@ -282,7 +282,7 @@ Create a `.env` file in the backend directory:
 ```bash
 DATABASE_URL=postgresql://username:password@localhost/cloud_optimizer
 API_PORT=8000
-CORS_ORIGINS=http://localhost:3000
+CORS_ORIGINS=http://localhost:5173
 ```
 
 ### Database Configuration
