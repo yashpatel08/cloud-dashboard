@@ -82,12 +82,12 @@ npm start
 ### 5. Verify Setup
 - Backend API: http://localhost:8000
 - API Documentation: http://localhost:8000/docs
-- Frontend Dashboard: http://localhost:3000
+- Frontend Dashboard: http://localhost:5173
 
 ## 🌐 Usage
 
 ### Dashboard Navigation
-1. **Access Dashboard**: Open `http://localhost:3000`
+1. **Access Dashboard**: Open `http://localhost:5173`
 2. **View Summary**: Check total resources, costs, and savings at the top
 3. **Monitor Resources**: Review all infrastructure in the resources table
 4. **Check Recommendations**: View optimization opportunities
